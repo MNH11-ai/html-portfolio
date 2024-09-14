@@ -1,2 +1,2 @@
 # html-portfolio
-A noob html portfilo xD
+A  simple html based portfilo xD
